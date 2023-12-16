@@ -1,2 +1,2 @@
 # Java-Exercise
-Solving various Java related problems 
+Solving Object Oriented Programing problems 
